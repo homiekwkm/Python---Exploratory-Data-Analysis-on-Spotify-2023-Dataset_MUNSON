@@ -44,7 +44,7 @@ The data types in the dataset consist of integers and objects. There are two dat
 
 
 ### Basic Descriptive Statistics
-#### What are the mean, median, and standard deviation of the streams column?
+#### > What are the mean, median, and standard deviation of the streams column?
 The mean of the streams column is 514137424.93907565, the median is 290530915.0, and standard deviation of the streams column is 566856949.0388832. Using the attributes .mean, .median, and .std, each individual value of data was derived.
 
 ![image](https://github.com/user-attachments/assets/6af0cff1-2f1c-4d43-840d-1997be3b9034)
@@ -111,6 +111,8 @@ Certain artists do consistently appear in more playlists and charts, as proven b
 ## Author Notes
 
 Thank you for reading this README file. It was personally an interesting experience creating this program, not just for the experience of coding each individual prompt, but to learn about the different streaming statistics of songs I enjoy. I hope this repository inspires you to work harder on more Python codes, and serves as a good piece of reference. 
+
+
 
 Lucas Daniel D. Munson
 
