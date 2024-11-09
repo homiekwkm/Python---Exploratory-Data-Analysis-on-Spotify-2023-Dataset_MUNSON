@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7b9c5675-5c08-4592-996d-88918cd9e964)# Python---Exploratory-Data-Analysis-on-Spotify-2023-Dataset_MUNSON
+# Python---Exploratory-Data-Analysis-on-Spotify-2023-Dataset_MUNSON
 
 Author: Lucas Munson (homiekwkm)
 
